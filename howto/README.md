@@ -187,3 +187,10 @@ build pack 변경
 ![성공](img/10-3.jpg)
 그다음 Deploy Branch
 ![성공](img/10-4.jpg)
+
+이제 [uptime robot](https://uptimerobot.com/dashboard.php) 설정
+![설정](img/10-5.jpg)
+
+끝!!!
+
+## 11. 
